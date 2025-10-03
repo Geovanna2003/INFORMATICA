@@ -1,6 +1,6 @@
 # INFORMATICA
 ## atividade 1: apresentação
-
+https://www.canva.com/design/DAGwwe5abYc/9LYjS9sy8KMaGo8iyBQVQQ/edit?utm_content=DAGwwe5abYc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 ## atividade 2: analise elaborada de dados
