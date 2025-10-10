@@ -6,4 +6,4 @@ https://www.canva.com/design/DAGwwe5abYc/9LYjS9sy8KMaGo8iyBQVQQ/edit?utm_content
 ## atividade 2: analise elaborada de dados
 <img width="1776" height="765" alt="image" src="https://github.com/user-attachments/assets/9d54dd34-7b7b-4fec-b2ab-9ce6836f44b3" />
 
-
+##3 atividade 3: dados abertos em formato de planilha
