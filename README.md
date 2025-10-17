@@ -1,5 +1,6 @@
 # INFORMATICA
 ## atividade 1: apresentação
+<img width="1109" height="626" alt="image" src="https://github.com/user-attachments/assets/a85cb7ae-780b-40bb-9c36-40508032ec80" />
 https://www.canva.com/design/DAGwwe5abYc/9LYjS9sy8KMaGo8iyBQVQQ/edit?utm_content=DAGwwe5abYc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## atividade 2: analise elaborada de dados 
