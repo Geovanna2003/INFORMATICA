@@ -12,3 +12,5 @@ USO DE FORMULAS: PROCV
 <img width="1446" height="624" alt="image" src="https://github.com/user-attachments/assets/c8a8b5aa-7d0f-4fe1-b234-230f6dd2063d" />
 
 ##4 atividade: Power BI
+Analise de dados e introdução no power bi
+https://github.com/Geovanna2003/INFORMATICA/blob/main/info-aula-BI%20(1).pbix
