@@ -10,3 +10,5 @@ USO DE FORMULAS: CONT.VALORES, CONT.SES, PROCV E CONTE.SES
 ##3 atividade 3: dados abertos em formato de planilha
 USO DE FORMULAS: PROCV
 <img width="1446" height="624" alt="image" src="https://github.com/user-attachments/assets/c8a8b5aa-7d0f-4fe1-b234-230f6dd2063d" />
+
+##4 atividade: Power BI
