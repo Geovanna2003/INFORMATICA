@@ -13,6 +13,8 @@ USO DE FORMULAS: PROCV
 
 ## atividade 4 : Power BI
 Analise de dados e introdução no power bi
+<img width="1312" height="502" alt="image" src="https://github.com/user-attachments/assets/1153aadd-80b7-4c2d-b939-fb63ea80ec43" />
+
 https://github.com/Geovanna2003/INFORMATICA/blob/main/info-aula-BI%20(1).pbix
 
 ## atividade 5:  Power BI Exportação 2025
