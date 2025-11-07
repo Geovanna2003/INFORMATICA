@@ -13,6 +13,8 @@ USO DE FORMULAS: PROCV
 
 ## atividade 4 : Power BI
 Analise de dados e introdução no power bi
+<img width="1421" height="799" alt="image" src="https://github.com/user-attachments/assets/21cecfc4-9e8c-410f-a640-124856afe554" />
+
 <img width="1312" height="502" alt="image" src="https://github.com/user-attachments/assets/1153aadd-80b7-4c2d-b939-fb63ea80ec43" />
 
 https://github.com/Geovanna2003/INFORMATICA/blob/main/info-aula-BI%20(1).pbix
