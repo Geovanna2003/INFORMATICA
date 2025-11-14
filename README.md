@@ -20,7 +20,8 @@ Analise de dados e introdução no power bi
 https://github.com/Geovanna2003/INFORMATICA/blob/main/info-aula-BI%20(1).pbix
 
 ## atividade 5:  Power BI Exportação 2025
-<img width="1637" height="855" alt="image" src="https://github.com/user-attachments/assets/ed39ccd5-1fa9-4800-a944-2cbd54957e57" />
+<img width="1312" height="797" alt="image" src="https://github.com/user-attachments/assets/69fde080-3d28-4d09-a664-c8bd1480b97f" />
+
 
 https://app.powerbi.com/links/7zC3qnDX9N?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
 
