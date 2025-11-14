@@ -26,3 +26,7 @@ https://app.powerbi.com/links/7zC3qnDX9N?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f7
 
 ## atividade 6: Gráfico de Recessão Linear - Sorvete
 <img width="1132" height="692" alt="image" src="https://github.com/user-attachments/assets/90403459-4038-4e13-9f7a-2f2c878190db" />
+
+## atividade 7 : Análise de Regressão Linear - Salário
+<img width="1045" height="640" alt="image" src="https://github.com/user-attachments/assets/566758fb-287e-44e2-81df-3260d63cf24d" />
+<img width="1053" height="603" alt="image" src="https://github.com/user-attachments/assets/b8d326e1-d820-4d2e-8353-59e795f42de6" />
