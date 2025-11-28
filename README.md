@@ -31,3 +31,6 @@ https://app.powerbi.com/links/7zC3qnDX9N?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f7
 ## atividade 7 : Análise de Regressão Linear - Salário
 <img width="1045" height="640" alt="image" src="https://github.com/user-attachments/assets/566758fb-287e-44e2-81df-3260d63cf24d" />
 <img width="1053" height="603" alt="image" src="https://github.com/user-attachments/assets/b8d326e1-d820-4d2e-8353-59e795f42de6" />
+
+## atividade 8 : prova dados de comercio
+<img width="1476" height="841" alt="image" src="https://github.com/user-attachments/assets/0e4ec371-ec82-4dbc-9eb2-057449f6519c" />
